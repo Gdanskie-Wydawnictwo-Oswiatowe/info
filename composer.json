@@ -1,0 +1,9 @@
+{
+    "name": "gwo/info",
+    "description": "Simple empty repository to reserve namespace in Packegist",
+    "type": "library",
+    "license": "mit",
+    "require": {
+        "php": "^7.1 || ^8.0"
+    }
+}
