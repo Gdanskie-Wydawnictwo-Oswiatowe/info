@@ -1,6 +1,6 @@
 {
     "name": "gwo/info",
-    "description": "Simple empty repository to reserve namespace in Packegist",
+    "description": "Simple empty repository to reserve namespace in Packagist",
     "type": "library",
     "license": "mit",
     "require": {
